@@ -5,9 +5,11 @@ This repository contains the latest versions of my resume and cover letters, opt
 ## Summary of Accomplishments
 
 - **Resume Optimization**: Tailored content for specific roles including Control Engineer, Mechatronics Engineer, PLC Programmer, and Automation Project Manager.
-- **ATS and Canadian Standards**: Adjusted formatting, structure, and keyword density to meet Canadian ATS (Applicant Tracking System) standards.
-- **Achievement-Based Content**: Focused on quantifiable achievements and relevant engineering skills for the Canadian job market.
-- **Synchronization**: Established a backup system by synchronizing local workspace with this GitHub repository.
+- **ATS and Canadian Standards**: Adjusted formatting, structure, and keyword density to meet Canadian ATS standards.
+- **Achievement-Based Content**: Focused on quantifiable achievements (CAPEX $950K+, 3x savings) and leadership roles (Reporting to CFO).
+- **Technical Expansion**: Added advanced industrial protocols including **Profibus** and **DeviceNet**.
+- **Specialized Documentation**: Created a targeted Cover Letter for **Siemens Canada** (Senior Application Engineer role).
+- **Synchronization**: Established a full backup system with this GitHub repository.
 
 ## Files Included
 
