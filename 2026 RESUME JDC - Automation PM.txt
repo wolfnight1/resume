@@ -35,8 +35,8 @@ Safety & Compliance         | JHSC Certified (Part 1 & 2), CSA C22.1 (CEC),
                             | ESA Regulations, OHSA, Machine Guarding, Risk
                             | Assessments
 Technical                   | VFDs, Servo Drives, Ethernet/IP, Modbus, Profibus,
-                            | Python (Data Analysis), SQL, Industrial
-                            | Instrumentation
+                            | DeviceNet, Python (Data Analysis), SQL, 
+                            | Industrial Instrumentation
 
 
 PROFESSIONAL EXPERIENCE
