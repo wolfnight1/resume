@@ -1,0 +1,151 @@
+DAVID CIFUENTES
+Scarborough, ON | (647) 562-6958 | jdcifuentes@gmail.com | linkedin.com/in/davidcifuentes80
+
+
+PROFESSIONAL SUMMARY
+================================================================================
+Controls and Automation Engineer with 10+ years of experience in industrial
+automation, PLC programming, SCADA/HMI systems, and control system integration
+within manufacturing environments. Proven track record managing multi-site
+engineering projects across 3 facilities with CAPEX budgets exceeding $950K.
+Expertise in Allen-Bradley, Siemens, and B&R PLC platforms with hands-on
+experience in system commissioning, troubleshooting, and modernization of legacy
+control systems. JHSC Certified (Part 1 & 2) with strong knowledge of CSA, ESA,
+and CEC electrical standards.
+
+
+CORE COMPETENCIES
+================================================================================
+PLC Programming             | Allen-Bradley (ControlLogix, CompactLogix,
+                            | RSLogix 5000/Studio 5000), Siemens (TIA Portal,
+                            | Step 7, WinCC), B&R Automation Studio, Click PLC
+HMI / SCADA                 | FactoryTalk View SE/ME, WinCC, Weintek EasyBuilder
+Industrial Protocols        | Ethernet/IP, Modbus TCP/RTU, Profibus, DeviceNet,
+                            | TCP/IP, Serial Communication
+Safety Systems              | Safety Interlocks, Safety PLCs, Machine Guarding,
+                            | Emergency Stop Circuits, Risk Assessments
+Drives & Motion Control     | VFDs, Servo Drives, Motor Starters, Soft Starters
+Instrumentation             | Temperature, Pressure, Level, and Flow Sensors;
+                            | Analog/Digital I/O Configuration
+Data & Scripting            | Python (Data Analysis, System Integration),
+                            | SQL, Data Visualization
+Electrical Standards        | CSA C22.1 (CEC), ESA Regulations, OHSA, JHSC
+CAD & Design                | SolidWorks, AutoCAD, Autodesk Inventor, Solid Edge
+
+
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+ALLEGUARD (formerly Amvic Systems) | Toronto, Scarborough & Calgary, ON/AB
+Continuous Improvement Manager | 2023 - Present
+--------------------------------------------------------------------------------
+- Manage $950K+ annual CAPEX portfolio encompassing 9+ concurrent engineering
+  and automation projects across 3 manufacturing facilities (Toronto, Calgary,
+  Passmore), delivering estimated 3x cost savings versus external contractors.
+- Lead automation upgrades for EPS block moulding machines (Hirsch 1100/1300/
+  1400), improving process stability and reducing unplanned downtime through
+  PLC logic optimization and sensor integration.
+- Modernize legacy control systems by designing and implementing new PLC and HMI
+  platforms (Allen-Bradley, Weintek), enhancing machine diagnostics and
+  real-time operational visibility.
+- Develop automation safety interlocks and control logic to improve machine
+  reliability and ensure compliance with CSA, ESA, and CEC standards.
+- Lead the cooling tower automation project ($65K) in Calgary, designing
+  temperature control systems that improved cooling efficiency and reduced
+  energy consumption.
+- Commission and oversee packing machine relocation and automation project
+  ($140K) for the Calgary facility, coordinating mechanical, electrical, and
+  PLC programming scopes.
+- Design mechanical solutions and tooling for EPS production, including mould
+  modifications ($105K-$120K per mould), cooling systems, and material handling
+  improvements using SolidWorks and AutoCAD.
+- Coordinate vendors, contractors, and suppliers across provinces, ensuring
+  project delivery on schedule and within budget.
+- Serve as Management Co-Chair for the Joint Health and Safety Committee (JHSC),
+  certified Part 1 and Part 2, conducting workplace inspections and driving
+  safety compliance initiatives.
+- Successfully completed approximately 6x the current project volume in the
+  prior year, delivering all projects on time and within budget.
+
+AMVIC SYSTEMS | Toronto & Scarborough, ON
+Process Improvement Manager | 2021 - 2023
+--------------------------------------------------------------------------------
+- Managed engineering improvement projects focused on production efficiency,
+  equipment modernization, and automation upgrades across 2 manufacturing plants.
+- Developed comprehensive project plans including timelines, cost estimates,
+  resource allocation, and risk assessments for capital equipment projects.
+- Led implementation of new PLC-controlled automation systems and machine
+  modifications, increasing throughput and reducing manual intervention.
+- Programmed and configured Allen-Bradley and Siemens PLCs for process control
+  applications, including batching, sequencing, and alarm management.
+- Designed HMI screens using FactoryTalk View and Weintek EasyBuilder for
+  operator interfaces, providing real-time process data and diagnostics.
+- Collaborated with production, maintenance, and management teams to identify
+  root causes and implement process optimization solutions using Lean and
+  Continuous Improvement methodologies (Kaizen, 5S, GEMBA, Poka-Yoke).
+
+AMVIC SYSTEMS | Toronto, ON
+Maintenance Assistant | 2020 - 2021
+--------------------------------------------------------------------------------
+- Implemented preventive, predictive, and corrective maintenance programs for
+  manufacturing equipment including EPS moulding machines, boilers, and
+  material handling systems.
+- Troubleshot and resolved PLC, HMI, VFD, and sensor issues to minimize
+  production downtime across multiple production lines.
+- Configured industrial communication networks (Ethernet/IP, Modbus) for
+  equipment integration and data acquisition.
+- Supported automation improvements including PLC ladder logic modifications,
+  drive parameterization, and instrumentation calibration.
+
+INSTRUCONT SAS | Colombia
+Specialist Engineer and Developer | 2017 - 2019
+--------------------------------------------------------------------------------
+- Designed and implemented industrial automation systems including PLC
+  programming (Allen-Bradley, Siemens), HMI interface development, and process
+  instrumentation for manufacturing clients.
+- Led system commissioning, I/O verification, wiring validation, and startup
+  of distributed control systems.
+- Developed SCADA solutions for remote monitoring and control of industrial
+  processes using Modbus and Ethernet/IP protocols.
+
+DSHAYTECH SAS | Colombia
+Project Manager & Founder | 2014 - 2018
+--------------------------------------------------------------------------------
+- Founded and managed an automation and engineering consulting firm delivering
+  PLC programming, SCADA integration, and CNC automation solutions.
+- Designed electronic and mechanical systems using SolidWorks, Inventor, and
+  AutoCAD for industrial applications.
+- Managed complete project lifecycle from client requirements gathering through
+  commissioning and handover.
+
+FILMTEX SAS | Colombia
+Maintenance Coordinator | 2013 - 2014
+--------------------------------------------------------------------------------
+- Directed maintenance operations for a manufacturing facility, leading a team
+  of 120 technical personnel across mechanical, electrical, and instrumentation
+  disciplines.
+- Developed and managed the preventive maintenance plan and schedule, reducing
+  unplanned equipment failures through root cause analysis (RCA) and corrective
+  action implementation.
+- Designed mechanical components and systems to optimize operational efficiency
+  and reduce changeover times.
+
+
+EDUCATION
+================================================================================
+Bachelor of Mechatronic Engineering
+University of San Buenaventura | Bogota, Colombia | 2013
+
+Diploma in Industrial Automation Technologies and PLC Applications
+University of San Buenaventura | Bogota, Colombia | 2013
+
+Diploma in Customer Services
+Greystone College of Business and Technology | Toronto, ON | 2021
+
+
+CERTIFICATIONS & TRAINING
+================================================================================
+- JHSC Certification Part 1 & Part 2 (Worksite Safety) | 2025
+- Management Co-Chair, Joint Health and Safety Committee (JHSC)
+- CSA C22.1 Canadian Electrical Code - Applied Knowledge
+- Continuous Improvement Methodologies: Kaizen, 5S, GEMBA, Kanban, Poka-Yoke
