@@ -1,0 +1,105 @@
+DAVID CIFUENTES
+Scarborough, ON | (647) 562-6958 | jdcifuentes@gmail.com | linkedin.com/in/davidcifuentes80
+
+PROFESSIONAL SUMMARY
+================================================================================
+Lead Automation & Manufacturing Engineer with 10+ years of experience in industrial 
+automation, PLC programming, SCADA/HMI systems, VFDs, and control system integration 
+within manufacturing environments. Proven track record managing multi-site engineering 
+projects across 3 facilities with CAPEX budgets exceeding $950K. Experienced in Rockwell 
+(Allen-Bradley), Siemens, Schneider, and B&R platforms with hands-on experience in 
+system commissioning, troubleshooting, and modernization of legacy control systems. 
+JHSC Certified (Part 1 & 2) with strong knowledge of CSA, ESA, and CEC electrical standards.
+
+CORE COMPETENCIES
+================================================================================
+Automation & Controls       | Vendor-Agnostic PLC Programming (Allen-Bradley, Siemens, B&R), HMI 
+                            | (FactoryTalk, WinCC), SCADA, MES, Robotics, VFDs, Servos
+Industrial Networks & IIoT  | Rockwell Automation (EtherNet/IP, DeviceNet), Siemens (Profinet), Modbus TCP, MQTT, Node-RED, Python
+Machine Troubleshooting     | Electrical Diagnostics, Pneumatics/Hydraulics, RCA
+Project Engineering         | Equipment Commissioning, Budget Control, BOMs, CAPEX
+Machine Design              | SolidWorks (Automation & Kinematic Simulation), AutoCAD, Panel Design
+Safety & Standards          | CSA C22.1 (CEC), Machine Guarding & Safety Interlocks,
+                            | LOTO, OHSA Compliance
+
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+ALLEGUARD (formerly Amvic Systems) | Toronto, Scarborough & Calgary, ON/AB
+Lead Automation & Manufacturing Engineer | 2023 - Present
+--------------------------------------------------------------------------------
+- Lead the complete automation engineering lifecycle for EPS production systems, 
+  developing and programming PLC/HMI software for complex equipment upgrades.
+- Troubleshoot and correct automated machinery faults, diagnosing electrical, 
+  pneumatic, and hydraulic issues to bring equipment up to running status under 
+  pressure.
+- Optimize legacy EPS block moulding machines (Hirsch) by rewriting PLC logic 
+  and configuring HMI interfaces, improving process stability by 15% and reducing 
+  cycle times.
+- Source and evaluate production equipment, collaborating with third-party vendors 
+  from initial design through to final on-site commissioning and SAT (Site 
+  Acceptance Testing).
+- Support modern IIoT manufacturing data strategy by integrating PLCs with factory 
+  networks, deploying Node-RED dashboards and MQTT protocol for real-time SCADA 
+  visualization and Python-based data collection.
+- Utilize SolidWorks for 3D modeling and mechanical simulation of automation projects, 
+  validating kinematics and end-of-arm robotic tooling prior to physical deployment.
+- Design and integrate advanced machine guarding controls and safety interlocks 
+  on legacy equipment, ensuring compliance with CSA C22.1 (CEC) and JHSC standards.
+
+AMVIC SYSTEMS | Toronto & Scarborough, ON
+Senior Automation Engineer | 2021 - 2023
+--------------------------------------------------------------------------------
+- Spearheaded the electrical and controls modernization of legacy manufacturing 
+  systems by integrating and programming modern sensors, VFDs, and PLC-controlled 
+  actuators.
+- Designed control narratives, electrical loops, and I/O lists, and managed 
+  comprehensive BOMs (Bill of Materials) to ensure strict budget control for 
+  capital equipment projects across 2 manufacturing plants.
+- Collaborated with maintenance technicians to resolve deep-root mechanical and 
+  electrical bottlenecks, implementing Poka-Yoke logic in PLC sequences to error-proof 
+  assembly tasks.
+- Trained operators and cross-functional teams on newly commissioned automation 
+  equipment and updated HMI screens.
+
+AMVIC SYSTEMS | Toronto, ON
+Maintenance & Controls Assistant | 2020 - 2021
+--------------------------------------------------------------------------------
+- Executed mechanical and electrical repairs on complex manufacturing equipment, 
+  improving machine availability by 15%.
+- Supported machine design improvements including sensor bracketry, pneumatic 
+  system updates, and motor driver configurations.
+
+INSTRUCONT SAS | Colombia
+Automation Controls Engineer | 2017 - 2019
+--------------------------------------------------------------------------------
+- Designed and commissioned custom industrial automation systems for various clients, 
+  focusing on PLC code development (Allen-Bradley, Siemens) and HMI interface creation.
+- Managed the lifecycle of machine retrofit projects from initial conceptual design 
+  through panel wiring, software testing, and final startup.
+
+DSHAYTECH SAS | Colombia
+Automation Project Manager & Founder | 2014 - 2018
+--------------------------------------------------------------------------------
+- Founded an engineering firm delivering turnkey automation and CNC solutions to 
+  20+ industrial clients.
+- Led the complete electro-mechanical design and software integration of custom-built 
+  automation machinery, managing fabrication and client handover.
+
+EDUCATION
+================================================================================
+Bachelor of Mechatronic Engineering (WES Validated - 4 Year Degree)
+University of San Buenaventura | Bogota, Colombia
+
+Diploma in Industrial Automation Technologies and PLC Applications
+University of San Buenaventura | Bogota, Colombia
+
+Diploma in Customer Services
+Greystone College of Business and Technology | Toronto, ON
+
+CERTIFICATIONS & TRAINING
+================================================================================
+- CSA C22.1 Canadian Electrical Code - Applied Technical Knowledge
+- JHSC Certification Part 1 & Part 2 (Management Co-Chair) | 2025
+- SolidWorks Professional Training | Advanced Mechanical Design & Automation Simulation
+- Continuous Improvement Methodologies (Lean, 5S)

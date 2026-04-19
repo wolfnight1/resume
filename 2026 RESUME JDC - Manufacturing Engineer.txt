@@ -1,0 +1,58 @@
+# DAVID CIFUENTES
+**Scarborough, ON | (647) 562-6958 | jdcifuentes@gmail.com | linkedin.com/in/davidcifuentes80**
+
+## PROFESSIONAL SUMMARY
+Mechatronics and Manufacturing Engineer with 10+ years of experience in optimizing production systems, designing custom machinery, and implementing industrial automation solutions. Expert in using SolidWorks for tooling/fixture design and process layout optimization. Proven ability to improve OEE and reduce downtime through Lean methodologies (Kaizen, 5S, Poka-Yoke) and advanced machine guarding strategies. WES-validated Bachelor's degree and deep knowledge of CSA C22.1 (CEC) and JHSC safety standards.
+
+## CORE COMPETENCIES
+*   **Mechanical Design**: SolidWorks, AutoCAD, Autodesk Inventor, Tooling & Fixture Design, Pneumatic/Hydraulic Systems, DFMA.
+*   **Industrial Automation**: PLC (Allen-Bradley, Siemens, B&R), HMI (FactoryTalk, WinCC), VFDs, Servo Drives, System Integration.
+*   **Process Improvement**: Lean Manufacturing, Kaizen, 5S, Root Cause Analysis (RCA), Machine Stable Optimization.
+*   **Project Management**: CAPEX Management ($950K+), Equipment Retrofits, Commissioning, Vendor Technical Selection.
+*   **Safety & Standards**: JHSC (Part 1 & 2), CSA C22.1 (CEC), Machine Guarding, OHSA Compliance.
+
+## PROFESSIONAL EXPERIENCE
+
+### **ALLEGUARD (formerly Amvic Systems) | Toronto, Scarborough & Calgary, ON/AB**
+**Continuous Improvement Manager / Manufacturing Engineer | 2023 – Present**
+*   Lead technical engineering for EPS production systems, implementing mechanical solutions and precision tooling modifications ($105K–$120K per mould).
+*   Utilize SolidWorks for 3D modeling and mechanical design of automation and material handling layouts, resulting in a 25% reduction in equipment changeover times.
+*   Optimize EPS block moulding machines (Hirsch models 1100/1300/1400) through mechanical redesign and PLC logic integration, improving process stability by 15%.
+*   Lead the engineering and automation scope for cooling tower and packing machine relocation projects ($140K), ensuring all installations meet CSA C22.1 (CEC) standards.
+*   Manage a $950K annual CAPEX portfolio, overseeing the lifecycle of machine upgrades from design specification to final commissioning.
+*   Serve as Management Co-Chair for the Joint Health and Safety Committee (JHSC), conducting machine safety audits and designing advanced guarding solutions for legacy equipment.
+
+### **AMVIC SYSTEMS | Toronto & Scarborough, ON**
+**Process Improvement Manager | 2021 – 2023**
+*   Designed and oversaw the fabrication of custom automation components to increase production throughput by 15% across 2 manufacturing plants.
+*   Maintained detailed technical drawings and BOMs for internal manufacturing modifications and capital equipment projects.
+*   Collaborated with maintenance teams to identify mechanical bottlenecks and implemented Poka-Yoke (error-proofing) and 5S initiatives.
+
+### **AMVIC SYSTEMS | Toronto, ON**
+**Maintenance Assistant | 2020 – 2021**
+*   Executed mechanical and electrical repairs on complex manufacturing equipment, improving machine availability by 15%.
+*   Supported machine design improvements including sensor bracketry, pneumatic system updates, and motor driver configurations.
+
+### **INSTRUCONT SAS | Colombia**
+**Specialist Engineer & Developer | 2017 – 2019**
+*   Designed and commissioned custom industrial automation systems focusing on mechanical-electrical integration and HMI interface development.
+*   Managed machine retrofit projects from initial conceptual design to final startup and operator training.
+
+### **DSHAYTECH SAS | Colombia**
+**Project Manager & Founder | 2014 – 2018**
+*   Founded an engineering firm specialized in automation and CNC solutions, delivering mechanical designs for 20+ industrial clients.
+*   Led the complete design of custom-built automation machinery using SolidWorks and AutoCAD.
+
+### **FILMTEX SAS | Colombia**
+**Maintenance Coordinator | 2013 – 2014**
+*   Led technical maintenance operations for a large manufacturing facility, improving equipment uptime through preventive/predictive programs.
+
+## EDUCATION
+*   **Bachelor of Mechatronics Engineering** (WES Validated - 4 Year Degree) | University of San Buenaventura, Colombia
+*   **Diploma in Industrial Automation Technologies & PLC Applications** | University of San Buenaventura, Colombia
+*   **Diploma in Customer Services** | Greystone College of Business and Technology, Toronto, ON
+
+## CERTIFICATIONS & TRAINING
+*   **JHSC Certification Part 1 & Part 2** (Management Co-Chair) | 2025
+*   **CSA C22.1 Canadian Electrical Code** – Applied Knowledge
+*   **SolidWorks Professional Training** | Continuous Improvement Methodologies

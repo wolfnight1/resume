@@ -1,0 +1,105 @@
+DAVID CIFUENTES
+Scarborough, ON | (647) 562-6958 | jdcifuentes@gmail.com | linkedin.com/in/davidcifuentes80
+
+PROFESSIONAL SUMMARY
+================================================================================
+Continuous Improvement Manager and Mechatronics Engineer with 10+ years of 
+experience driving operational excellence, waste elimination, and process 
+optimization in high-volume manufacturing environments. Expert in Lean 
+Six Sigma methodologies (Kaizen, 5S, VSM, Poka-Yoke) and CAPEX management 
+($950K+ portfolio), delivering 3x cost savings through in-house automation 
+strategies. Proven track record in multi-site leadership, root cause analysis 
+(RCA), and improving OEE. JHSC Certified Management Co-Chair with a WES-validated 
+Bachelor's degree in Mechatronics Engineering.
+
+CORE COMPETENCIES
+================================================================================
+Lean Manufacturing          | Kaizen, 5S, GEMBA Walks, Value Stream Mapping (VSM),
+                            | Poka-Yoke, Standardized Work, SMED, Kanban
+Industrial Engineering      | Process Flow Optimization, OEE Improvement, 
+                            | Root Cause Analysis (RCA), Bottleneck Analysis
+Project & CAPEX Management  | Budgeting ($950K+), Vendor Management, ROI Analysis,
+                            | Timeline Management, Cross-Functional Leadership
+Automation & Controls       | PLC/HMI System Modernization (Allen-Bradley, Siemens),
+                            | Machine Retrofits, System Integration, SCADA
+Safety & Compliance         | JHSC Management Co-Chair (Part 1 & 2), CSA C22.1,
+                            | Machine Guarding, OHSA Regulations, Risk Assessments
+Technical Tools             | SolidWorks, AutoCAD, Python (Data Analysis), SQL,
+                            | MS Project, Visio
+
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+ALLEGUARD (formerly Amvic Systems) | Toronto, Scarborough & Calgary, ON/AB
+Continuous Improvement Manager | 2023 - Present
+--------------------------------------------------------------------------------
+- Direct a $950K+ annual CAPEX portfolio across 3 manufacturing facilities, 
+  delivering 3x cost savings by executing engineering projects in-house.
+- Lead 9+ concurrent process improvement and automation projects, optimizing 
+  production for EPS moulding machines (Hirsch 1100/1300/1400) to reduce 
+  unplanned downtime by 40% via logic optimization.
+- Spearhead Lean initiatives including Kaizen events and GEMBA walks, resulting 
+  in increased process stability and a 6x increase in project volume capability 
+  within one year.
+- Implement data-driven process modifications using Python and SQL for real-time 
+  OEE tracking and performance diagnostics.
+- Manage the cooling tower automation project ($65K) and packing machine 
+  relocation ($140K), specifying equipment and overseeing multi-provincial 
+  logistics.
+- Serve as Management Co-Chair for the Joint Health and Safety Committee (JHSC), 
+  conducting worksite inspections and driving safety compliance initiatives.
+- Reduced mold changeover times by 25% through mechanical solution designs 
+  valued at $100K+ per project using SolidWorks/AutoCAD.
+
+AMVIC SYSTEMS | Toronto & Scarborough, ON
+Process Improvement Manager | 2021 - 2023
+--------------------------------------------------------------------------------
+- Managed site-wide engineering improvements focused on production efficiency 
+  and equipment modernization across 2 facilities.
+- Facilitated the deployment of Lean methodologies (5S, Poka-Yoke, Kanban), 
+  significantly reducing material waste and manual intervention requirements.
+- Developed comprehensive ROI analyses and risk assessments for capital equipment 
+  acquisitions, ensuring alignment with corporate financial targets.
+- Modernized legacy control systems by designing and commissioning new PLC/HMI 
+  platforms, enhancing operational visibility and error-proofing (Poka-Yoke).
+
+AMVIC SYSTEMS | Toronto, ON
+Maintenance Assistant | 2020 - 2021
+--------------------------------------------------------------------------------
+- Implemented preventive and predictive maintenance programs, reducing critical 
+  equipment failure rates by 15% through RCA-driven improvements.
+- Executed machine retrofits and automation logic modifications (Allen-Bradley, 
+  Siemens) to improve line throughput and reliability.
+
+INSTRUCONT SAS | Colombia
+Specialist Engineer and Developer | 2017 - 2019
+--------------------------------------------------------------------------------
+- Optimized industrial processes for diverse manufacturing clients through 
+  custom automation design and system commissioning.
+- Led technical teams in the deployment of SCADA solutions for remote 
+  monitoring and operational diagnostics.
+
+FILMTEX SAS | Colombia
+Maintenance Coordinator | 2013 - 2014
+--------------------------------------------------------------------------------
+- Led a team of 120 technical personnel, managing preventive maintenance 
+  schedules for a high-capacity manufacturing plant.
+- Applied Lean tools to identify and eliminate bottlenecks in the material 
+  handling system, improving facility-wide productivity.
+
+EDUCATION
+================================================================================
+Bachelor of Mechatronic Engineering (WES Validated - 4 Year Degree)
+University of San Buenaventura | Bogota, Colombia
+
+Diploma in Industrial Automation Technologies and PLC Applications
+University of San Buenaventura | Bogota, Colombia
+
+Diploma in Customer Services
+Greystone College of Business and Technology | Toronto, ON
+
+CERTIFICATIONS & TRAINING
+================================================================================
+- JHSC Certification Part 1 & Part 2 (Management Co-Chair) | 2025
+- CSA C22.1 Canadian Electrical Code - Applied Knowledge
+- Lean Methodologies: Kaizen, 5S, GEMBA, Kanban, Poka-Yoke, VSM, RCA

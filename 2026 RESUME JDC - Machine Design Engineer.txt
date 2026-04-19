@@ -1,0 +1,102 @@
+DAVID CIFUENTES
+Scarborough, ON | (647) 562-6958 | jdcifuentes@gmail.com | linkedin.com/in/davidcifuentes80
+
+PROFESSIONAL SUMMARY
+================================================================================
+Mechatronics Engineer and Machine Design Specialist with 10+ years of 
+experience in mechanical design, industrial automation, and equipment retrofits. 
+Expertise in SolidWorks, AutoCAD, and Autodesk Inventor for designing complex 
+mechanical components, tooling, and production line systems. Managed a $950K+ 
+CAPEX portfolio delivering customized automation solutions at 3x cost savings 
+versus external vendors. Strong background in system integration, PLC/HMI 
+programming, and JHSC safety leadership. WES-validated Bachelor's degree 
+in Mechatronics Engineering.
+
+CORE COMPETENCIES
+================================================================================
+Mechanical Design           | SolidWorks, AutoCAD, Autodesk Inventor, Solid Edge, 
+                            | Pneumatic & Hydraulic Systems, Tooling Design
+Machine Retrofits           | Equipment Modernization, System Integration, 
+                            | Mechanical/Electrical Troubleshooting
+Industrial Automation       | PLC (Allen-Bradley, Siemens, B&R), HMI (FactoryTalk, 
+                            | WinCC), Servo Drives, VFDs, Sensors
+Project Management          | CAPEX Execution ($950K+), Vendor Management, 
+                            | Procurement, Installation & Commissioning
+Manufacturing Engineering   | Lean Methodologies (Kaizen, 5S, Poka-Yoke), 
+                            | DFMA (Design for Manufacturing & Assembly)
+Safety & Standards          | JHSC Certified (Part 1 & 2), CSA C22.1 (CEC), 
+                            | Machine Guarding, OHSA Compliance
+
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+ALLEGUARD (formerly Amvic Systems) | Toronto, Scarborough & Calgary, ON/AB
+Continuous Improvement Manager | 2023 - Present
+--------------------------------------------------------------------------------
+- Design and implement mechanical solutions and precision tooling for EPS 
+  production, including 5+ custom mould modifications ($105K-$120K per mould).
+- Lead the engineering of cooling tower and packing machine relocation projects 
+  ($65K - $140K), designing custom automation and material handling layouts.
+- Optimize EPS block moulding machines (Hirsch) through mechanical redesign 
+  and PLC logic integration, improving process stability and reducing downtime.
+- Manage $950K annual CAPEX, overseeing the full design-to-commissioning 
+  lifecycle for automation upgrades across 3 manufacturing sites.
+- Utilize SolidWorks for 3D modeling of mechanical components, resulting in a 
+  25% reduction in equipment changeover time through improved tooling design.
+- Direct vendor coordination for precision machining and specialized fabrication, 
+  ensuring all mechanical designs meet CSA and ESA standards.
+- Serve as Management Co-Chair for JHSC, conducting machine safety audits 
+  and designing guarding solutions for legacy equipment.
+
+AMVIC SYSTEMS | Toronto & Scarborough, ON
+Process Improvement Manager | 2021 - 2023
+--------------------------------------------------------------------------------
+- Designed and oversaw the fabrication of custom automation components to 
+  increase production throughput by 15% across 2 manufacturing plants.
+- Developed detailed technical drawings and BOMs (Bills of Materials) for 
+  capital equipment projects and manufacturing modifications.
+- Collaborated with maintenance and production teams to identify mechanical 
+  bottlenecks and implement Poka-Yoke (error-proofing) design solutions.
+- Spearheaded the modernization of legacy mechanical systems by integrating 
+  modern sensors, VFDs, and PLC-controlled actuators.
+
+AMVIC SYSTEMS | Toronto, ON
+Maintenance Assistant | 2020 - 2021
+--------------------------------------------------------------------------------
+- Executed mechanical and electrical repairs on complex manufacturing equipment, 
+  improving machine availability by 15%.
+- Supported machine design improvements including sensor bracketry, pneumatic 
+  system updates, and motor driver configurations.
+
+INSTRUCONT SAS | Colombia
+Specialist Engineer and Developer | 2017 - 2019
+--------------------------------------------------------------------------------
+- Designed and commissioned custom industrial automation systems for clients, 
+  focusing on mechanical-electrical integration and HMI interface development.
+- Managed the lifecycle of machine retrofit projects from initial conceptual 
+  design through final startup and operator training.
+
+DSHAYTECH SAS | Colombia
+Project Manager & Founder | 2014 - 2018
+--------------------------------------------------------------------------------
+- Founded an engineering firm specializing in automation and CNC solutions, 
+  delivering mechanical designs for 20+ industrial clients.
+- Led the complete design of custom-built automation machinery using SolidWorks 
+  and AutoCAD, managing fabrication and client handover.
+
+EDUCATION
+================================================================================
+Bachelor of Mechatronic Engineering (WES Validated - 4 Year Degree)
+University of San Buenaventura | Bogota, Colombia
+
+Diploma in Industrial Automation Technologies and PLC Applications
+University of San Buenaventura | Bogota, Colombia
+
+Diploma in Customer Services
+Greystone College of Business and Technology | Toronto, ON
+
+CERTIFICATIONS & TRAINING
+================================================================================
+- JHSC Certification Part 1 & Part 2 (Management Co-Chair) | 2025
+- CSA C22.1 Canadian Electrical Code - Applied Knowledge
+- SolidWorks Professional Training | Continuous Improvement Methodologies

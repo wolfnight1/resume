@@ -1,0 +1,55 @@
+# DAVID CIFUENTES
+**Scarborough, ON | (647) 562-6958 | jdcifuentes@gmail.com | linkedin.com/in/davidcifuentes80**
+
+## PROFESSIONAL SUMMARY
+Technical Engineering Project Lead and Mechatronics Engineer with 10+ years of experience in high-volume manufacturing, product development, and multi-site CAPEX management. Expert in bridging the technical gap between customers and global suppliers through detailed Technical Risk Assessments, Design for Manufacturability (DFM), and RFQ/PO lifecycle management. Proven track record managing $950K+ in capital engineering projects, delivering complex mechanical and automation solutions with a focus on precision (GD&T) and quality (First Article Inspection - FAI).
+
+## CORE COMPETENCIES
+*   **Engineering Leadership**: Technical Project Lead, CAPEX Management ($950K+), Vendor/Supplier Selection, RFQ/PO Lifecycle.
+*   **Technical Design & Analysis**: SolidWorks, AutoCAD, GD&T, Design for Manufacturability (DFM), Technical Risk Assessment, FEA.
+*   **Manufacturing Processes**: Castings, Precision Machining, Metal Fabrication, EPS Moulding, Automation & Controls (PLC/HMI).
+*   **Quality Assurance**: First Article Inspection (FAI), Physical Audit, Quality Control Plans, Root Cause Analysis (RCA).
+*   **Standards & Compliance**: CSA C22.1 (CEC), OHSA Regulations, JHSC Management Co-Chair (Part 1 & 2), ESA Standards.
+
+## PROFESSIONAL EXPERIENCE
+
+### **ALLEGUARD (formerly Amvic Systems) | Toronto, Scarborough & Calgary, ON/AB**
+**Continuous Improvement Manager / Engineering Project Lead | 2023 – Present**
+*   Direct a $950K+ annual CAPEX portfolio across 3 manufacturing sites, leading the technical project lifecycle from initial RFQ and supplier evaluation to final commissioning.
+*   Conduct Technical Risk Assessments for engineering projects, evaluating materials, tolerances (GD&T), and manufacturing feasibility to mitigate production risks.
+*   Serve as the Technical Point of Contact between internal production teams and global suppliers for the design and procurement of precision moulds ($105K–$120K each).
+*   Execute Design for Manufacturability (DFM) reviews for custom EPS mould modifications, resulting in improved process stability and 25% faster changeover times.
+*   Lead the First Article Inspection (FAI) and physical auditing of custom-built automation equipment and precision tooling before floor deployment.
+*   Managed the Calgary facility relocation and automation project ($140K), coordinating mechanical, electrical (CSA C22.1), and logic programming scopes with multiple vendors.
+*   Serve as Management Co-Chair for the Joint Health and Safety Committee (JHSC), leading machine safety audits and guarding design projects.
+
+### **AMVIC SYSTEMS | Toronto & Scarborough, ON**
+**Process Improvement Manager | 2021 – 2023**
+*   Developed comprehensive technical specifications and BOMs for capital equipment projects, ensuring alignment with customer requirements and supplier capabilities.
+*   Managed cross-functional technical teams to execute equipment modernization projects, including the integration of modern sensors, VFDs, and PLC-controlled actuators.
+*   Collaborated with production and maintenance to identify mechanical bottlenecks and implement Poka-Yoke (error-proofing) design solutions.
+
+### **INSTRUCONT SAS | Colombia**
+**Specialist Engineer & Developer | 2017 – 2019**
+*   Led technical automation projects for external clients, managing the full lifecycle from requirements gathering through SolidWorks conceptual design to final startup.
+*   Provided technical expertise in PLC (Allen-Bradley, Siemens) and HMI integration for custom industrial machinery.
+
+### **DSHAYTECH SAS | Colombia**
+**Project Manager & Founder | 2014 – 2018**
+*   Founded an engineering firm delivering automation and CNC solutions to 20+ industrial clients.
+*   Managed complete machine design and fabrication projects, interfacing directly with client engineering teams to review technical drawings and quality standards.
+
+### **FILMTEX SAS | Colombia**
+**Maintenance Coordinator | 2013 – 2014**
+*   Directed technical operations for a large manufacturing facility, coordinating mechanical and electrical maintenance for a staff of 120.
+
+## EDUCATION
+*   **Bachelor of Mechatronic Engineering** (WES Validated - 4 Year Degree) | University of San Buenaventura, Colombia
+*   **Diploma in Industrial Automation Technologies & PLC Applications** | University of San Buenaventura, Colombia
+*   **Diploma in Customer Services** | Greystone College of Business and Technology, Toronto, ON
+
+## CERTIFICATIONS & TRAINING
+*   **JHSC Certification Part 1 & Part 2** (Management Co-Chair) | 2025
+*   **CSA C22.1 Canadian Electrical Code** – Applied Technical Knowledge
+*   **SolidWorks Professional Training** | GD&T Application in Manufacturing
+*   **Continuous Improvement Methodologies**: Kaizen, Kaizen, 5S, Six Sigma basics.

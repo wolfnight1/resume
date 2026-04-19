@@ -4,39 +4,30 @@ Scarborough, ON | (647) 562-6958 | jdcifuentes@gmail.com | linkedin.com/in/david
 
 PROFESSIONAL SUMMARY
 ================================================================================
-Mechatronics Engineer and Automation Project Manager with 10+ years of
-experience leading multi-site capital engineering projects, industrial
-automation upgrades, and continuous improvement initiatives in manufacturing
-environments. Currently managing a $950K+ CAPEX portfolio across 3 facilities,
-delivering projects at 3x cost savings versus external contractors. Strong
-background in cross-functional leadership, vendor coordination, and budget
-management combined with hands-on expertise in PLC programming, SCADA/HMI
-systems, and mechanical-electrical system design. JHSC Certified (Part 1 & 2)
-Management Co-Chair with deep knowledge of Canadian safety and electrical
-standards.
-
+Automation Project Manager and Mechatronics Engineer with 10+ years of 
+experience leading multi-site capital engineering projects (CAPEX $950K+), 
+industrial automation upgrades, and continuous improvement initiatives in 
+high-volume manufacturing. Currently managing a $950K+ CAPEX portfolio 
+across 3 facilities, delivering 3x cost savings versus external contractors. 
+Expert in cross-functional leadership, vendor management, and process 
+optimization (Lean, Kaizen). JHSC Certified (Part 1 & 2) Management Co-Chair 
+with a WES-validated Bachelor's degree and deep knowledge of CSA, ESA, and 
+CEC standards.
 
 CORE COMPETENCIES
 ================================================================================
 Project Management          | CAPEX Planning & Execution, Budget Management,
-                            | Risk Assessment, Timeline Management, Vendor
-                            | Coordination, Contractor Oversight, Multi-Site
-                            | Operations, Stakeholder Communication
-Automation & Controls       | PLC Programming (Allen-Bradley, Siemens, B&R),
-                            | HMI/SCADA (FactoryTalk View, WinCC, Weintek),
-                            | System Commissioning, Safety Interlocks
-Mechanical & System Design  | SolidWorks, AutoCAD, Autodesk Inventor, Solid Edge,
-                            | Pneumatic & Hydraulic Systems, Tooling Design,
-                            | Machine Retrofits, Material Handling Systems
-Industrial Engineering      | Process Optimization, Lean Manufacturing, Kaizen,
-                            | 5S, GEMBA, Kanban, Poka-Yoke, Root Cause Analysis,
-                            | Preventive & Predictive Maintenance
-Safety & Compliance         | JHSC Certified (Part 1 & 2), CSA C22.1 (CEC),
-                            | ESA Regulations, OHSA, Machine Guarding, Risk
-                            | Assessments
-Technical                   | VFDs, Servo Drives, Ethernet/IP, Modbus, Profibus,
-                            | DeviceNet, Python (Data Analysis), SQL, 
-                            | Industrial Instrumentation
+                            | Risk Assessment, ROI Analysis, Vendor 
+                            | Coordination, Multi-Site Leadership
+Automation & Controls       | PLC Programming (Allen-Bradley, Siemens, B&R), 
+                            | HMI/SCADA, System Commissioning, Machine Retrofits
+Industrial Engineering      | Lean Manufacturing, Kaizen, 5S, VSM, Poka-Yoke,
+                            | Root Cause Analysis (RCA), OEE Improvement
+Mechanical & System Design  | SolidWorks, AutoCAD, Pneumatic & Hydraulic Systems,
+                            | Tooling Design, Machine Guarding
+Safety & Compliance         | JHSC Management Co-Chair (Part 1 & 2), CSA C22.1,
+                            | OHSA Regulations, Risk Assessments
+Technical                   | VFDs, Servo Drives, Ethernet/IP, Python, SQL
 
 
 PROFESSIONAL EXPERIENCE
