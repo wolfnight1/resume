@@ -1,0 +1,60 @@
+# DAVID CIFUENTES
+**Scarborough, ON | (647) 562-6958 | jdcifuentes@gmail.com | linkedin.com/in/davidcifuentes80**
+
+## PROFESSIONAL SUMMARY
+Mechanical and Manufacturing Engineer with 10+ years of experience in optimizing multi-site production facilities, designing custom machinery, and leading large-scale engineering projects. Expert in plant layout optimization, injection molding design, and CAPEX management ($950K+ portfolio). Proven track record in developing comprehensive facility documentation, including single-line electrical diagrams and fire safety plans for multiple plants. JHSC Certified Management Co-Chair with a WES-validated Bachelor’s degree in Mechatronics Engineering and a deep focus on mechanical-electrical integration.
+
+## CORE COMPETENCIES
+*   **Manufacturing Engineering**: Plant Layout Optimization (AutoCAD/SolidWorks), OEE Improvement, Root Cause Analysis (RCA), Poka-Yoke, Lean Manufacturing.
+*   **Mechanical Design & Tooling**: SolidWorks Professional, Injection Molding (Mould Design/Procurement), Tooling & Fixtures, Pneumatic/Hydraulic Systems.
+*   **Facility & Project Management**: CAPEX Budgeting ($950K+), Single-Line Electrical Diagrams, Fire Safety Planning, Vendor Technical Selection, Commissioning.
+*   **Data & KPI Monitoring**: Real-time KPI Dashboards (Energy/Cycle Monitors), CMMS Software Optimization, Maintenance Inventory Control.
+*   **Safety & Compliance**: JHSC Management Co-Chair (Part 1 & 2), CSA C22.1 (CEC), OHSA Regulations, Fire Department Coordination.
+
+## PROFESSIONAL EXPERIENCE
+
+### **ALLEGUARD (formerly Amvic Systems) | Toronto, Scarborough & Calgary, ON/AB**
+**Manufacturing Engineering & Continuous Improvement Lead | 2023 – Present**
+*   Lead multi-site technical engineering operations across 3 major facilities (Passmore, North York, and Calgary), ensuring operational excellence and infrastructure standardization.
+*   Developed comprehensive Plant Layouts and Single-Line Electrical Diagrams for all 3 plants to optimize machine locations and storage area utilization.
+*   Engineered and implemented Fire Safety Plans in coordination with local Fire Departments, leveraging revised layouts to ensure full regulatory compliance.
+*   Drive mechanical design for new injection molded products, managing the complete lifecycle from part design in SolidWorks to supplier coordination for precision mold procurement ($100K+ per project).
+*   Manage a $950K annual CAPEX portfolio, overseeing technical specifications, vendor quoting, and the commissioning of cooling towers and automated packing systems.
+*   Serve as Management Co-Chair for the Joint Health and Safety Committee (JHSC), conducting safety audits and designing guarding solutions for complex equipment.
+*   Implemented energy and cycle monitoring systems to provide real-time KPIs and traceability, enabling data-driven decision-making for production stability.
+*   Modernized maintenance operations by adapting CMMS software for improved history tracking and implementing advanced inventory control for spare parts.
+
+### **AMVIC SYSTEMS | Toronto & Scarborough, ON**
+**Process Improvement Manager | 2021 – 2023**
+*   Designed custom automation components and tooling modifications that increased throughput by 15% across 2 manufacturing plants.
+*   Maintained detailed technical drawings and BOMs for all internal manufacturing modifications and capital equipment upgrades.
+*   Collaborated with cross-functional teams to identify and eliminate mechanical bottlenecks using Poka-Yoke and 5S methodologies.
+
+### **AMVIC SYSTEMS | Toronto, ON**
+**Maintenance Assistant | 2020 – 2021**
+*   Performed advanced troubleshooting and repairs on mechanical, electrical, and control systems, improving plant-wide machine availability by 15%.
+*   Supported engineering projects including sensor bracketry design, pneumatic logic updates, and motor driver configurations.
+
+### **INSTRUCONT SAS | Colombia**
+**Specialist Engineer & Developer | 2017 – 2019**
+*   Designed and commissioned custom industrial machinery and automation systems, focusing on mechanical design and HMI/PLC integration.
+*   Led machine retrofit projects for high-volume manufacturing clients, managing the full project lifecycle from conceptual design to operator training.
+
+### **DSHAYTECH SAS | Colombia**
+**Project Manager & Founder | 2014 – 2018**
+*   Founded an engineering firm specialized in automation and CNC machinery, delivering mechanical designs and turnkey solutions for 20+ industrial clients.
+*   Led the complete design and fabrication of custom-built automation equipment using SolidWorks and AutoCAD.
+
+### **FILMTEX SAS | Colombia**
+**Maintenance Coordinator | 2013 – 2014**
+*   Coordinated maintenance operations for a large-scale manufacturing plant, applying Lean tools to improve facility-wide productivity and uptime.
+
+## EDUCATION
+*   **Bachelor of Mechatronics Engineering** (WES Validated - 4 Year Degree) | University of San Buenaventura, Colombia
+*   **Diploma in Industrial Automation Technologies & PLC Applications** | University of San Buenaventura, Colombia
+*   **Diploma in Customer Services** | Greystone College of Business and Technology, Toronto, ON
+
+## CERTIFICATIONS & TRAINING
+*   **JHSC Certification Part 1 & Part 2** (Management Co-Chair) | 2025
+*   **CSA C22.1 Canadian Electrical Code** – Applied Knowledge
+*   **SolidWorks Professional Training** | Lean Manufacturing Methodologies
